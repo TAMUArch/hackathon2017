@@ -1,5 +1,16 @@
-# hackathon2017
-Open data for use in the 2017 Diversity Hackathon sponsored by the College of Architecture (arch.tamu.edu/hackathon)
+# 2017 Diversity Hackathon
+
+Open data for use in the 2017 Diversity Hackathon (arch.tamu.edu/hackathon) sponsored by: 
+
+ - College of Architecture Diversity Council
+ - College of Education and Human Development
+ - College of Engineering
+ - Texas Engineering Experiment Station
+ - College of Geosciences, Department of Geography 
+ - COA Information Technology Sservices 
+ - TAMU Libraries, GIS & Maps 
+ 
+ More information about the event, and registration info is available here: https://tamu-hackathon.devpost.com/
 
 
 ## GIS Day 2016

@@ -1,5 +1,5 @@
 # 2017 Diversity Hackathon
-###### Accessibility aruond campus
+
 
 Open data for use in the 2017 Diversity Hackathon (arch.tamu.edu/hackathon) sponsored by: 
 
@@ -8,10 +8,10 @@ Open data for use in the 2017 Diversity Hackathon (arch.tamu.edu/hackathon) spon
 - College of Engineering
 - Texas Engineering Experiment Station
 - College of Geosciences, Department of Geography 
-- COA Information Technology Sservices 
-- TAMU Libraries, GIS & Maps 
-  
- More information about the event, and registration info is available here: https://tamu-hackathon.devpost.com/
+- COA Information Technology Sservices
+- TAMU Libraries, GIS & Maps
+
+More information about the event, and registration info is available here: https://tamu-hackathon.devpost.com/
 
 
 ## GIS Day 2016

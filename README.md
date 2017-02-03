@@ -10,6 +10,7 @@ Open data for use in the 2017 Diversity Hackathon (arch.tamu.edu/hackathon) spon
  - COA Information Technology Sservices 
  - TAMU Libraries, GIS & Maps 
  
+ 
  More information about the event, and registration info is available here: https://tamu-hackathon.devpost.com/
 
 

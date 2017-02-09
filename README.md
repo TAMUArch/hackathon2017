@@ -16,10 +16,16 @@ More information about the event, and registration info is available here: https
 
 ## Campus building data
 
-This data is from the TAMU Facilities Coordination office, and consists of building information in several JSON formats. Also included are shapefiles in the form of ArcGIS GDB files.
+This data is from the [TAMU Office of Facilities Coordination](http://fcor.tamu.edu), and consists of building information in several JSON formats. Also included are shapefiles in the form of ArcGIS GDB files.
 
 
 
 ## GIS Day 2016
 
-Data from the 2016 TAMU GIS Day is available here. There is an associated photo set available in a Google Drive folder: https://goo.gl/rxJrJj
+Data from the 2016 [TAMU GIS Day](https://gisday.tamu.edu) is available here. There is an associated photo set available in a Google Drive folder: https://goo.gl/rxJrJj
+
+
+
+## Transportation Services 
+
+A variety of data on TAMU bus routes (buses, routes, patterns, etc) is available from [Transportation Services](http://transport.tamu.edu) via their API: http://transport.tamu.edu/BusRoutesFeed/Swagger

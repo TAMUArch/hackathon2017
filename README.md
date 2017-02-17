@@ -22,7 +22,7 @@ This data is from the [TAMU Office of Facilities Coordination](http://fcor.tamu.
 
 ## GIS Day 2016
 
-Data from the 2016 [TAMU GIS Day](https://gisday.tamu.edu) is available here. There is an associated photo set available in a Google Drive folder: https://goo.gl/rxJrJj
+Data from the 2016 [TAMU GIS Day](https://gisday.tamu.edu) is available here. There is an associated photo set available in a Google Drive folder: https://goo.gl/rxJrJj. To view additional GIS Day data and mapping interfaces, see: http://gisday.tamu.edu/map.
 
 
 

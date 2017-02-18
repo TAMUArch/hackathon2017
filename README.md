@@ -29,3 +29,8 @@ Data from the 2016 [TAMU GIS Day](https://gisday.tamu.edu) is available here. Th
 ## Transportation Services 
 
 A variety of data on TAMU bus routes (buses, routes, patterns, etc) is available from [Transportation Services](http://transport.tamu.edu) via their API: http://transport.tamu.edu/BusRoutesFeed/Swagger
+
+
+## Campus building data (CAD files)
+
+This data is from the [TAMU Office of Facilities Coordination](http://fcor.tamu.edu), and consists of CAD data for several TAMU campus buildings. F17020705.zip includes Langford A, Langford B, Langford B, Kyle Field, Eller O&M, Rudder, MSC, Evans, and Evans Annex. F17020705-Set2.zip includes Disability Services, Conference Building 1, Conference Building 2, Residence Life, Student Counseling Services Reception, Student Counseling Services Building 1, Student Counseling Services Building 2, Student Life Building 1, Student Life Building 2, Bizzell Hall
